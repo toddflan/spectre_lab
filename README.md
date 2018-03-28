@@ -1,5 +1,8 @@
-![Spectre Logo](https://github.com/toddflan/spectre_lab/blob/master/spectre_logo.png)
-1
+<p align="center">
+ <img src="https://github.com/toddflan/spectre_lab/blob/master/spectre_logo.png">
+</p>
+
+![Source](https://spectreattack.com/)
 
 ## Introduction
 
@@ -44,9 +47,3 @@ The Spectre attack takes advantage of branch predictor behavior to trick the bra
 3.	Graph of % confidence and success of the attack versus training iterations (for branch predictor) with analysis
 4.	Implementation of reading multiple data types and explanation
 5.	Demo code
-
-
-
-
-
-1 Spectre logo, https://meltdownattack.com/
