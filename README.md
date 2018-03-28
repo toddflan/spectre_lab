@@ -42,4 +42,4 @@ The Spectre attack takes advantage of branch predictor behavior to trick the bra
 4.	Implementation of reading multiple data types and explanation
 5.	Demo code
 
-![Spectre Logo](https://spectreattack.com/)
+Spectre Logo from https://spectreattack.com/
