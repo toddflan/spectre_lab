@@ -20,7 +20,7 @@ The Spectre attack takes advantage of branch predictor behavior to trick the bra
 
 3.  Compile and execute the example attack
 
-  * Run the command “gcc -o spectre spectre.c” then “./spectre” and examine the output. Make sure to compile without optimizations as this may cause issues running the attack code
+  * Run the command `gcc -o spectre spectre.c` then `./spectre` and examine the output. Make sure to compile without optimizations as this may cause issues running the attack code
 
 4.	Edit spectre.c to output % confidence instead of success/unknown (line 134)
 
