@@ -1,6 +1,6 @@
-<html>
- <body background="https://spectreattack.com/images/spectre.min.svg" />
-</html>
+<p align="center">
+ <img src="https://spectreattack.com/images/spectre.min.svg" width="200">
+</p>
 
 ## Introduction
 
