@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/toddflan/spectre_lab/blob/master/spectre_logo.png">
+ <img src="https://raw.githubusercontent.com/toddflan/toddflan.github.io/master/spectre_logo.png">
 </p>
 
 ## Introduction
