@@ -2,8 +2,6 @@
  <img src="https://github.com/toddflan/spectre_lab/blob/master/spectre_logo.png">
 </p>
 
-![Source](https://spectreattack.com/)
-
 ## Introduction
 
 In early 2018, Spectre, a vulnerability affecting nearly all modern computer systems, was announced to the public. Unlike most vulnerabilities, Spectre takes advantage of the intended operation of machines. Specifically, Spectre exploits the side-effects of branch prediction and speculative execution, two invaluable architectural techniques, to gain secret information. These concepts will be explained in detail in the following sections.
@@ -47,3 +45,5 @@ The Spectre attack takes advantage of branch predictor behavior to trick the bra
 3.	Graph of % confidence and success of the attack versus training iterations (for branch predictor) with analysis
 4.	Implementation of reading multiple data types and explanation
 5.	Demo code
+
+![Spectre Logo](https://spectreattack.com/)
