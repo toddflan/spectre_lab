@@ -1,3 +1,5 @@
+![Spectre Logo](https://meltdownattack.com/images/spectre.min.svg)
+
 ## Introduction
 
 In early 2018, Spectre, a vulnerability affecting nearly all modern computer systems, was announced to the public. Unlike most vulnerabilities, Spectre takes advantage of the intended operation of machines. Specifically, Spectre exploits the side-effects of branch prediction and speculative execution, two invaluable architectural techniques, to gain secret information. These concepts will be explained in detail in the following sections.
