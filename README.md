@@ -16,7 +16,7 @@ The Spectre attack takes advantage of branch predictor behavior to trick the bra
 
 1.	Download an Ubuntu image and build a VM to run the attack code. There should be no extra libraries required outside of the LTS ubuntu image (16.04)
 
-2.	Download the Spectre example code which can be downloaded ![here](https://gist.github.com/ErikAugust/724d4a969fb2c6ae1bbd7b2a9e3d4bb6). This was produced as part of the Spectre paper which you can read ![here](https://spectreattack.com/spectre.pdf).
+2.	Download the Spectre example code which can be downloaded [here](https://gist.github.com/ErikAugust/724d4a969fb2c6ae1bbd7b2a9e3d4bb6). This was produced as part of the Spectre paper which you can read [here](https://spectreattack.com/spectre.pdf).
 
 3.  Compile and execute the example attack
 
@@ -42,4 +42,4 @@ The Spectre attack takes advantage of branch predictor behavior to trick the bra
 4.	Implementation of reading multiple data types and explanation
 5.	Demo code
 
-Spectre Logo from https://spectreattack.com/
+[Spectre Logo](https://spectreattack.com/)
