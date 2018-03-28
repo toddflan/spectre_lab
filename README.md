@@ -46,4 +46,12 @@ The Spectre attack takes advantage of branch predictor behavior to trick the bra
 4.	Implementation of reading multiple data types and explanation
 5.	Demo code
 
-Spectre logo [source](https://spectreattack.com/)
+## Authors
+
+Eric Garfinkle, Gino Chacon, Samuel Todd Flanagan, Dr. Jeyavijayan Rajendran
+
+## Credit
+
+- Example Spectre attack code provided by Erik August's [Gist](https://gist.github.com/ErikAugust/724d4a969fb2c6ae1bbd7b2a9e3d4bb6)
+- Information regarding Spectre attack found at [spectreattack.com](https://spectreattack.com/)
+- Spectre logo [source](https://spectreattack.com/)
