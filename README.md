@@ -24,11 +24,11 @@ The Spectre attack takes advantage of branch predictor behavior to trick the bra
 
 3.  Compile and execute the example attack
 
-  * Run the command `gcc -o spectre spectre.c` then `./spectre` and examine the output. Make sure to compile without optimizations as this may cause issues running the attack code
+...Run the command `gcc -o spectre spectre.c` then `./spectre` and examine the output. Make sure to compile without optimizations as this may cause issues running the attack code
 
 4.	Edit spectre.c to output % confidence instead of success/unknown (line 134)
 
-  * Include your implementation of this feature with an explanation in your report.
+...Include your implementation of this feature with an explanation in your report.
 
 5.	Edit the CACHE_HIT_THRESHOLD (line 50) and graph its effect on % confidence and correctness of the output.
 
@@ -36,7 +36,7 @@ The Spectre attack takes advantage of branch predictor behavior to trick the bra
 
 7.	Create a function that allows the user to maliciously read several types of data (at least int, double, and short int).
 
-  * Include your implementation of this feature with an explanation in your report.
+...Include your implementation of this feature with an explanation in your report.
 
 ## Deliverables
 
