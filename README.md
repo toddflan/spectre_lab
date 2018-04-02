@@ -34,16 +34,11 @@ The Spectre attack takes advantage of branch predictor behavior to trick the bra
 
 6.	Edit the amount of times the branch predictor is trained between each malicious call to victim_function (line 76) and graph its effect on % confidence and correctness of the output.
 
-7.	Create a function that allows the user to maliciously read several types of data (at least int, double, and short int).
-
-    Include your implementation of this feature with an explanation in your report.
-
 ## Deliverables
 
 1.	Implementation of % confidence feature and explanation
 2.	Graph of % confidence and success of the attack versus CACHE_HIT_THRESHOLD with analysis
 3.	Graph of % confidence and success of the attack versus training iterations (for branch predictor) with analysis
-4.	Implementation of reading multiple data types and explanation
 5.	Demo code
 
 ## Authors
