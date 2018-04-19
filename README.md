@@ -56,3 +56,11 @@ Dr. Jeyavijayan Rajendran - [jeyavijayan@tamu.edu](mailto:jeyavijayan@tamu.edu)
 - Example Spectre attack code provided by Erik August's [Gist](https://gist.github.com/ErikAugust/724d4a969fb2c6ae1bbd7b2a9e3d4bb6)
 - Information regarding Spectre attack found at [spectreattack.com](https://spectreattack.com/)
 - Spectre logo [source](https://spectreattack.com/)
+
+## Other Reading
+
+Kocher, Paul; Genkin, Daniel; Gruss, Daniel; Haas, Werner; Hamburg, Mike; Lipp, Moritz; Mangard, Stefan; Prescher, Thomas; Schwarz, Michael; Yarom, Yuval (2018). ["Spectre Attacks: Exploiting Speculative Execution"](https://spectreattack.com/spectre.pdf) (PDF). [Archived](https://web.archive.org/web/20180103225843/https://spectreattack.com/spectre.pdf) (PDF) from the original on January 3, 2018. 
+
+Bright, Peter (January 5, 2018). ["Meltdown and Spectre: Here's what Intel, Apple, Microsoft, others are doing about it"](https://arstechnica.com/gadgets/2018/01/meltdown-and-spectre-heres-what-intel-apple-microsoft-others-are-doing-about-it/). Ars Technica. Retrieved January 6,2018. 
+
+Lipp, Moritz; Schwarz, Michael; Gruss, Daniel; Prescher, Thomas; Haas, Werner; Mangard, Stefan; Kocher, Paul; Genkin, Daniel; Yarom, Yuval; Hamburg, Mike. ["Meltdown"](https://meltdownattack.com/meltdown.pdf) (PDF). Meltdown and Spectre. p. 8 sec. 5.1. Retrieved January 4, 2018. 
