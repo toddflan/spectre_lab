@@ -43,13 +43,13 @@ The Spectre attack takes advantage of branch predictor behavior to trick the bra
 
 ## Authors
 
-Eric Garfinkle | ericgarfinkle@tamu.edu
+Eric Garfinkle - ericgarfinkle@tamu.edu
 
-Gino Chacon | ginochacon@tamu.edu
+Gino Chacon - ginochacon@tamu.edu
 
-Samuel Todd Flanagan | toddflanagan95@tamu.edu
+Samuel Todd Flanagan - toddflanagan95@tamu.edu
 
-Dr. Jeyavijayan Rajendran | jeyavijayan@tamu.edu
+Dr. Jeyavijayan Rajendran - jeyavijayan@tamu.edu
 
 ## Credit
 
